@@ -14,4 +14,4 @@ export default class Car {
       this._brand, this._motor, this._color,
     );
   }
-
+}
